@@ -127,22 +127,47 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** CHAWEZI CHIPAPA
+**Student ID:** 2022001753
+**Design Theme:** My portfolio follows a clean and modern design theme that highlights my projects and skills clearly. The layout is responsive and organized to provide a smooth experience across mobile, tablet, and desktop devices.
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
 - [ ] Flexbox
 - [ ] CSS Grid
 - [ ] Media Queries
-- [ ] Other: _______________
+- [ ] Other: ______css transitions ,hover effects, box shadows_________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+Responsive Design Across Devices
+Challenge: Ensuring the website looked good on desktop, tablet, and mobile screens was difficult because layouts can break on smaller screens.
+Solution: Media queries, Flexbox, and CSS Grid were used to adjust layouts depending on the screen size.
+ Consistent Color Theme
+Challenge: Maintaining a consistent visual theme throughout the website.
+Solution: CSS Custom Properties (variables) were used to define colors so they could be reused easily across the entire project.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+Purple background image – used in the hero/landing section.
+Project 1 image – represents the first portfolio project.
+Project 2 image – represents the second portfolio project.
+Project 3 image – represents the third portfolio project.
+Desktop screenshot – shows the website layout on desktop screens.
+Tablet screenshot – demonstrates the responsive layout on tablet devices.
+Mobile screenshot – displays the mobile responsive design.
+
+Fonts Used
+
+Primary Font: Poppins
+Fallback Font: Sans-serif
+These fonts were used to maintain readability and give the website a modern appearance.
+
+Resources and Attribution
+
+Google Fonts – used for the Poppins font.
+CSS Flexbox – used for flexible layout structure.
+CSS Grid – used for arranging content sections.
+Media Queries – used to make the website responsive across devices.
+CSS Custom Properties – used for managing reusable color variables.
 
 ---
 
